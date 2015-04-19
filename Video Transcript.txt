@@ -1,0 +1,24 @@
+386
+This is a tutorial video demonstrating the installation of the softwares required for running our program and the working of our porgram as well.
+
+The softwares required are- Qt creator and code blocks. I would start with the installation of code blocks.
+The first step would be do a google search for code blocks. Click on the first link that appears in the search results. www.codeblocks.org
+
+Then click on downloads. Click on download the binary release. Depending on which your operating system is, say windows, click on it. Then click on the link given under "download from" i.e. sourceforge.net. the download would begin.
+
+To download Qt creator, do a google search for Qt creator. Click on the link called Qt - download open source step 3 (i.e. the link- ) then click on Qt offline installers. Select the appropriate option depending on your operating system. The download would begin.
+
+When the download completes run the installer as administrator.
+
+Now i'll solve a simple equation.
+
+Extract the zip file corresponding to our program.
+
+After extracting open the project in Qt. Open the Qt creator (Enterprise). Click on the skip button of the Qt evaluate window that appears. Click on the open project button. Navigate to the folder where the zip file was extracted. Open the "final project" folder. Click on the the green triangle on the bottom left which is the run button. In the pop up window that appears. Enter your equation. Enter the variable that you need to solve for.
+Enter the domain in which to solve the equation. The domain entered should not exceed (-1000,1000). You can wish to leave that field empty. In that case the default domain would be (-1000,1000).
+ 
+Click on solve.
+
+You can click on the help option in case you need any help with the syntax and general guidelines.
+The roots of your equation would be displayed on the right hand side.
+Thank you!
