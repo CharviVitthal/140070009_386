@@ -20,5 +20,5 @@ Open the extraced final_project.pro file in Qt creator.
 Click on the green triangle at the bottom left of the screen to run the code
 
 
-YouTube Video Link: https://www.youtube.com/watch?v=n0DMpam8ZK
+YouTube Video Link: https://www.youtube.com/watch?v=n0DMpam8ZKs
 
